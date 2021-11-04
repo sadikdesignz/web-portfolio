@@ -1,0 +1,18 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+h1{
+    font-size: 50px;
+
+}
+.name-highlight{
+    color: brown;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 5%;
+}
+.half-width img {
+    width: 50%;
+}
